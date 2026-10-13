@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="t d" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',ui-monospace,monospace">
+<title id="t">Arjun Thakor, security analyst in training</title>
+<desc id="d">Terminal-style banner: M.Sc. Cybersecurity student at SRH University Leipzig, open to IT security roles in Germany.</desc>
+<defs>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".28"/></pattern>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#16302a" stroke-width="1" opacity=".5"/></pattern>
+<radialGradient id="vig" cx="50%" cy="40%" r="75%"><stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".6"/></radialGradient>
+<linearGradient id="gridfade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="gm"><rect width="900" height="400" fill="url(#gridfade)"/></mask>
+<clipPath id="c0"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0147;0.0169;0.0191;0.0213;0.0235;0.0257;0.0279;0.0301;0.0324;0.0346;0.1495" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;0"/></rect></clipPath><clipPath id="c1"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1814;0.1836;0.1858;0.1880;0.1902;0.1924;0.1946;0.1968;0.1990;0.2012;0.2034;0.2056;0.2078;0.2100;0.2123;0.2145;0.2167;0.2189;0.2211;0.2233;0.2255;0.2277;0.2299;0.3162" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;144.0;156.0;168.0;180.0;192.0;204.0;216.0;228.0;240.0;252.0;264.0;276.0;0"/></rect></clipPath><clipPath id="c2"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3480;0.3502;0.3525;0.3547;0.3569;0.3591;0.3613;0.3635;0.3657;0.3679;0.3701;0.4828" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;0"/></rect></clipPath><clipPath id="c3"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.5147;0.5169;0.5191;0.5213;0.5235;0.5257;0.5279;0.5301;0.5324;0.5346;0.5368;0.5390;0.5412;0.6495" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;144.0;156.0;0"/></rect></clipPath><clipPath id="c4"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.6814;0.6836;0.6858;0.6880;0.6902;0.6924;0.6946;0.6968;0.6990;0.7012;0.7034;0.7056;0.7078;0.7100;0.8162" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;144.0;156.0;168.0;0"/></rect></clipPath><clipPath id="c5"><rect x="70" y="288" width="0" height="30"><animate attributeName="width" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.8480;0.8502;0.8525;0.8547;0.8569;0.8591;0.8613;0.8635;0.8657;0.8679;0.8701;0.8723;0.8745;0.8767;0.8789;0.8811;0.8833;0.8855;0.8877;0.8900;0.9828" values="0;12.0;24.0;36.0;48.0;60.0;72.0;84.0;96.0;108.0;120.0;132.0;144.0;156.0;168.0;180.0;192.0;204.0;216.0;228.0;240.0;0"/></rect></clipPath>
+</defs>
+<rect width="900" height="400" rx="10" fill="#050a09"/>
+<rect width="900" height="400" rx="10" fill="url(#grid)" mask="url(#gm)" opacity=".5"/>
+
+<!-- status bar -->
+<rect width="900" height="34" rx="10" fill="#06110e"/><rect y="24" width="900" height="10" fill="#06110e"/>
+<line x1="0" y1="34" x2="900" y2="34" stroke="#16302a"/>
+<rect x="12" y="6" width="26" height="22" fill="#3dff9a"/><text x="25" y="22" font-size="13" font-weight="800" fill="#050a09" text-anchor="middle">[0]</text>
+<text x="46" y="22" font-size="12.5" fill="#c9f5e1">arjun@sec-ops:~</text>
+<text x="176" y="22" font-size="12" fill="#5f8a7b">1:shell</text><text x="241.8" y="22" font-size="12" fill="#5f8a7b">2:nmap</text><text x="300.20000000000005" y="22" font-size="12" fill="#5f8a7b">3:git-log</text><text x="380.80000000000007" y="22" font-size="12" fill="#5f8a7b">4:advisories</text><text x="483.6000000000001" y="22" font-size="12" fill="#5f8a7b">5:lsmod</text><text x="549.4000000000001" y="22" font-size="12" fill="#5f8a7b">6:ssh</text>
+<circle cx="724" cy="18" r="3.6" fill="#3dff9a"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="734" y="22" font-size="12" fill="#3dff9a">ONLINE</text>
+<text x="800" y="22" font-size="12" fill="#5f8a7b">EU · CET</text>
+
+<!-- left: identity -->
+<text x="70" y="76" font-size="11.5" letter-spacing="2.4" fill="#ffc04d">// SECURITY ANALYST IN TRAINING · OPEN TO IT SECURITY ROLES</text>
+<g filter="url(#glow)" font-weight="800" font-size="84" fill="#c9f5e1">
+  <text x="66" y="156">ARJUN</text>
+  <text x="66" y="236">THAKOR<tspan fill="#3dff9a">_</tspan></text>
+</g>
+<!-- glitch flashes -->
+<g font-weight="800" font-size="84" opacity="0">
+  <text x="62" y="154" fill="#ff4d6d" clip-path="inset(0 0 55% 0)">ARJUN</text>
+  <text x="70" y="158" fill="#3ee6ff">ARJUN</text>
+  <animate attributeName="opacity" dur="3.8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9;0.95;1" values="0;0;.6;0"/>
+</g>
+<text x="70" y="270" font-size="14" fill="#c9f5e1">M.Sc. Cybersecurity · SRH University Leipzig</text>
+<text x="70" y="310" font-size="20" fill="#3dff9a" transform="translate(-22 0)">&gt;</text>
+<text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c0)">Pen tester</text><text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c1)">SOC analyst in training</text><text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c2)">Blue-teamer</text><text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c3)">Web developer</text><text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c4)">UI/UX designer</text><text x="70" y="310" font-size="20" fill="#3dff9a" clip-path="url(#c5)">Cloud &amp; IaC security</text>
+<rect x="70" y="292" width="11" height="22" fill="#3dff9a">
+  <animate attributeName="x" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0147;0.0169;0.0191;0.0213;0.0235;0.0257;0.0279;0.0301;0.0324;0.0346;0.1495;0.1814;0.1836;0.1858;0.1880;0.1902;0.1924;0.1946;0.1968;0.1990;0.2012;0.2034;0.2056;0.2078;0.2100;0.2123;0.2145;0.2167;0.2189;0.2211;0.2233;0.2255;0.2277;0.2299;0.3162;0.3480;0.3502;0.3525;0.3547;0.3569;0.3591;0.3613;0.3635;0.3657;0.3679;0.3701;0.4828;0.5147;0.5169;0.5191;0.5213;0.5235;0.5257;0.5279;0.5301;0.5324;0.5346;0.5368;0.5390;0.5412;0.6495;0.6814;0.6836;0.6858;0.6880;0.6902;0.6924;0.6946;0.6968;0.6990;0.7012;0.7034;0.7056;0.7078;0.7100;0.8162;0.8480;0.8502;0.8525;0.8547;0.8569;0.8591;0.8613;0.8635;0.8657;0.8679;0.8701;0.8723;0.8745;0.8767;0.8789;0.8811;0.8833;0.8855;0.8877;0.8900;0.9828" values="70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;214.0;226.0;238.0;250.0;262.0;274.0;286.0;298.0;310.0;322.0;334.0;346.0;70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;214.0;226.0;70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;214.0;226.0;238.0;70;82.0;94.0;106.0;118.0;130.0;142.0;154.0;166.0;178.0;190.0;202.0;214.0;226.0;238.0;250.0;262.0;274.0;286.0;298.0;310.0;70"/>
+  <animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+<rect x="70" y="344" width="78" height="24" fill="#0a1412" stroke="#16302a"/><text x="80" y="360" font-size="12" fill="#c9f5e1">CEH 2023</text><rect x="156" y="344" width="86" height="24" fill="#0a1412" stroke="#16302a"/><text x="166" y="360" font-size="12" fill="#c9f5e1">CCNA 2022</text><rect x="250" y="344" width="173" height="24" fill="#0a1412" stroke="#16302a"/><text x="260" y="360" font-size="12" fill="#c9f5e1">IBM QRadar · Guardium</text><rect x="431" y="344" width="144" height="24" fill="#0a1412" stroke="#16302a"/><text x="441" y="360" font-size="12" fill="#c9f5e1">EN fluent · DE B1</text>
+
+<!-- right: boot log -->
+<rect x="520" y="92" width="356" height="188" fill="#030806" stroke="#16302a"/>
+<rect x="520" y="92" width="356" height="26" fill="#07120f" stroke="#16302a"/>
+<circle cx="534" cy="105" r="4.5" fill="#ff4d6d"/><circle cx="550" cy="105" r="4.5" fill="#ffc04d"/><circle cx="566" cy="105" r="4.5" fill="#3dff9a"/>
+<text x="582" y="109" font-size="11.5" fill="#5f8a7b">arjun@sec-ops: ~ (zsh)</text>
+<text x="534" y="144" font-size="11.5" fill="#5f8a7b" opacity="0">[    0.000] booting sec-ops kernel …<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0294;0.9706" values="0;1;0"/></text><text x="534" y="165" font-size="11.5" fill="#3dff9a" opacity="0">[  OK  ] loaded: ceh ccna comptia aws<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0515;0.9706" values="0;1;0"/></text><text x="534" y="186" font-size="11.5" fill="#3dff9a" opacity="0">[  OK  ] started: pentest.service<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0735;0.9706" values="0;1;0"/></text><text x="534" y="207" font-size="11.5" fill="#3dff9a" opacity="0">[  OK  ] started: incident-response.service<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0956;0.9706" values="0;1;0"/></text><text x="534" y="228" font-size="11.5" fill="#3dff9a" opacity="0">[  OK  ] started: terraform-baseline.service<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1176;0.9706" values="0;1;0"/></text><text x="534" y="249" font-size="11.5" fill="#ffc04d" opacity="0">[ WARN ] caffeine nominal; german at B1<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1397;0.9706" values="0;1;0"/></text><text x="534" y="270" font-size="11.5" fill="#3dff9a" opacity="0">[  OK  ] reached target: open-to-work.target<animate attributeName="opacity" dur="20.4s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1618;0.9706" values="0;1;0"/></text>
+
+<!-- CRT overlay -->
+<rect width="900" height="400" rx="10" fill="url(#scan)" pointer-events="none"/>
+<rect width="900" height="400" rx="10" fill="url(#vig)" pointer-events="none"/>
+<rect x=".5" y=".5" width="899" height="399" rx="10" fill="none" stroke="#16302a"/>
+</svg>

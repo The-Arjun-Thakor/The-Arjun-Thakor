@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 466" width="900" height="466" role="img" aria-labelledby="t" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',ui-monospace,monospace">
+<title id="t">Skills shown as an nmap scan: port, state, service, version</title>
+<defs><pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".25"/></pattern></defs>
+<rect width="900" height="466" rx="10" fill="#050a09" stroke="#16302a"/>
+<text x="24" y="34" font-size="13" fill="#5f8a7b"><tspan fill="#3dff9a" font-weight="600">arjun@sec-ops</tspan>:~$ <tspan fill="#c9f5e1">nmap -sV --top-ports 10 arjun.local</tspan></text>
+<text x="24" y="64" font-size="12" fill="#5f8a7b">Starting Nmap … Host is up (0.0004s latency).</text>
+<rect x="16" y="82" width="868" height="308" fill="#0a1412" stroke="#16302a"/>
+<text x="32" y="101" font-size="12" fill="#5f8a7b">PORT</text>
+<text x="136" y="101" font-size="12" fill="#5f8a7b">STATE</text>
+<text x="224" y="101" font-size="12" fill="#5f8a7b">SERVICE</text>
+<text x="420" y="101" font-size="12" fill="#5f8a7b">VERSION</text>
+<line x1="16" x2="884" y1="110" y2="110" stroke="#16302a"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.01s" fill="freeze"/><text x="32" y="129" font-size="13" fill="#3ee6ff">22/tcp</text><text x="136" y="129" font-size="13" fill="#3dff9a">open</text><text x="224" y="129" font-size="13" font-weight="600" fill="#c9f5e1">penetration-testing</text><text x="420" y="129" font-size="12.5" fill="#5f8a7b">Ethical hacking · vulnerability assessment</text></g>
+<line x1="16" x2="884" y1="138" y2="138" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.01s" fill="freeze"/><text x="32" y="157" font-size="13" fill="#3ee6ff">53/tcp</text><text x="136" y="157" font-size="13" fill="#3dff9a">open</text><text x="224" y="157" font-size="13" font-weight="600" fill="#c9f5e1">networking</text><text x="420" y="157" font-size="12.5" fill="#5f8a7b">CCNA-level routing &amp; switching · firewalls · VPN</text></g>
+<line x1="16" x2="884" y1="166" y2="166" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.01s" fill="freeze"/><text x="32" y="185" font-size="13" fill="#3ee6ff">443/tcp</text><text x="136" y="185" font-size="13" fill="#3dff9a">open</text><text x="224" y="185" font-size="13" font-weight="600" fill="#c9f5e1">siem-logging</text><text x="420" y="185" font-size="12.5" fill="#5f8a7b">IBM QRadar · Guardium (training) · logguard (Python)</text></g>
+<line x1="16" x2="884" y1="194" y2="194" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.01s" fill="freeze"/><text x="32" y="213" font-size="13" fill="#3ee6ff">514/tcp</text><text x="136" y="213" font-size="13" fill="#3dff9a">open</text><text x="224" y="213" font-size="13" font-weight="600" fill="#c9f5e1">incident-response</text><text x="420" y="213" font-size="12.5" fill="#5f8a7b">IR · IDS/IPS · malware analysis · MITRE ATT&amp;CK</text></g>
+<line x1="16" x2="884" y1="222" y2="222" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.01s" fill="freeze"/><text x="32" y="241" font-size="13" fill="#3ee6ff">9001/tcp</text><text x="136" y="241" font-size="13" fill="#3dff9a">open</text><text x="224" y="241" font-size="13" font-weight="600" fill="#c9f5e1">grc</text><text x="420" y="241" font-size="12.5" fill="#5f8a7b">IT auditing &amp; compliance · risk management · IAM</text></g>
+<line x1="16" x2="884" y1="250" y2="250" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.01s" fill="freeze"/><text x="32" y="269" font-size="13" fill="#3ee6ff">5000/tcp</text><text x="136" y="269" font-size="13" fill="#3dff9a">open</text><text x="224" y="269" font-size="13" font-weight="600" fill="#c9f5e1">cloud-iac</text><text x="420" y="269" font-size="12.5" fill="#5f8a7b">AWS · Terraform · Checkov · GitHub Actions</text></g>
+<line x1="16" x2="884" y1="278" y2="278" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.01s" fill="freeze"/><text x="32" y="297" font-size="13" fill="#3ee6ff">2375/tcp</text><text x="136" y="297" font-size="13" fill="#3dff9a">open</text><text x="224" y="297" font-size="13" font-weight="600" fill="#c9f5e1">devops</text><text x="420" y="297" font-size="12.5" fill="#5f8a7b">Docker · Kubernetes · Linux</text></g>
+<line x1="16" x2="884" y1="306" y2="306" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.01s" fill="freeze"/><text x="32" y="325" font-size="13" fill="#3ee6ff">3306/tcp</text><text x="136" y="325" font-size="13" fill="#3dff9a">open</text><text x="224" y="325" font-size="13" font-weight="600" fill="#c9f5e1">scripting-data</text><text x="420" y="325" font-size="12.5" fill="#5f8a7b">Python · SQL · PostgreSQL</text></g>
+<line x1="16" x2="884" y1="334" y2="334" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.01s" fill="freeze"/><text x="32" y="353" font-size="13" fill="#3ee6ff">8080/tcp</text><text x="136" y="353" font-size="13" fill="#3dff9a">open</text><text x="224" y="353" font-size="13" font-weight="600" fill="#c9f5e1">web-dev</text><text x="420" y="353" font-size="12.5" fill="#5f8a7b">JavaScript · React · Node.js · Express · HTML/CSS</text></g>
+<line x1="16" x2="884" y1="362" y2="362" stroke="#12261f" stroke-dasharray="3 3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.01s" fill="freeze"/><text x="32" y="381" font-size="13" fill="#3ee6ff">3000/tcp</text><text x="136" y="381" font-size="13" fill="#3dff9a">open</text><text x="224" y="381" font-size="13" font-weight="600" fill="#c9f5e1">ui-ux</text><text x="420" y="381" font-size="12.5" fill="#5f8a7b">Figma · Google UX Design · branding &amp; logos</text></g>
+<text x="24" y="414" font-size="12" fill="#5f8a7b">Service Info: Host: sec-ops · OS: Linux · Langs: python, sql, javascript, bash</text>
+<text x="24" y="434" font-size="12" fill="#5f8a7b">Nmap done: 1 IP address (1 host up) scanned in 4.20 seconds</text>
+<rect width="900" height="466" rx="10" fill="url(#scan)"/></svg>
