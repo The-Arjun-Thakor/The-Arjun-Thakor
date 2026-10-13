@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.svg" alt="Arjun Thakor: security analyst in training. M.Sc. Cybersecurity at SRH University Leipzig. Open to IT security roles in Germany." width="100%">
+<img src="banner.svg" alt="Arjunsinh Thakor: security analyst in training. M.Sc. Cybersecurity at SRH University Leipzig. Open to IT security roles in Germany." width="100%">
 
-[**portfolio**](https://arjunthakorlive.netlify.app) &nbsp;·&nbsp; [**linkedin**](https://www.linkedin.com/in/arjunthakor) &nbsp;·&nbsp; [**logguard**](https://github.com/The-Arjun-Thakor/logguard) &nbsp;·&nbsp; [**terraform-aws-secure-baseline**](https://github.com/The-Arjun-Thakor/terraform-aws-secure-baseline)
+[**portfolio**](https://arjunthakorlive.netlify.app) &nbsp;·&nbsp; [**linkedin**](https://www.linkedin.com/in/arjunsinhthakor) &nbsp;·&nbsp; [**logguard**](https://github.com/The-Arjun-Thakor/logguard) &nbsp;·&nbsp; [**terraform-aws-secure-baseline**](https://github.com/The-Arjun-Thakor/terraform-aws-secure-baseline)
 
 </div>
 
@@ -18,15 +18,15 @@
 
 <img src="nmap.svg" alt="Skills as an nmap scan: penetration testing, networking, SIEM and logging, incident response, GRC, cloud and IaC, DevOps, scripting and data, web development, UI/UX." width="100%">
 
-<img src="gitlog.svg" alt="Career timeline: M.Sc. Cybersecurity at SRH University Leipzig since 2024; Web Developer and UI/UX Designer internship at AttackBox, Jan to Apr 2022; B.Tech CSE Cyber Security at Ganpat University 2020 to 2024; Web Developer at H&B Computer Education, May to Jul 2022; Graphic Designer at The Karma Foundation, Mar to May 2021." width="100%">
+<img src="gitlog.svg" alt="Career timeline: M.Sc. Cybersecurity at SRH University Leipzig since 2024; Web Developer and UI/UX Designer at AttackBox, Jan to Apr 2024; B.Tech CSE Cyber Security at Ganpat University 2020 to 2024; Web Developer at H&B Computer Education, May to Jul 2022; Graphic Designer at The Karma Foundation, Mar to May 2021." width="100%">
 
 <img src="certs.svg" alt="Certifications: Certified Ethical Hacker 2023, CCNA Routing and Switching Essentials 2022, CompTIA A+ 2022, CompTIA Network+ 2022, Microsoft Certified Solutions Associate 2022, AWS Academy Cloud Foundations 2023, AWS Cloud Practitioner Essentials 2023." width="100%">
 
-<img src="contact.svg" alt="Contact: need someone on your security team? Portfolio and contact form at arjunthakorlive.netlify.app, LinkedIn at linkedin.com/in/arjunthakor, based in Leipzig, Germany." width="100%">
+<img src="contact.svg" alt="Contact: need someone on your security team? Portfolio and contact form at arjunthakorlive.netlify.app, LinkedIn at linkedin.com/in/arjunsinhthakor, based in Leipzig, Germany." width="100%">
 
 <div align="center">
 
-[**portfolio &amp; contact form**](https://arjunthakorlive.netlify.app) &nbsp;·&nbsp; [**linkedin**](https://www.linkedin.com/in/arjunthakor)
+[**portfolio &amp; contact form**](https://arjunthakorlive.netlify.app) &nbsp;·&nbsp; [**linkedin**](https://www.linkedin.com/in/arjunsinhthakor)
 
 <sub>built in a terminal near you &nbsp;·&nbsp; <code>sudo hire-arjun --now</code></sub>
 
