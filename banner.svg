@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="t d" font-family="'JetBrains Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',ui-monospace,monospace">
-<title id="t">Arjun Thakor, security analyst in training</title>
+<title id="t">Arjunsinh Thakor, security analyst in training</title>
 <desc id="d">Terminal-style banner: M.Sc. Cybersecurity student at SRH University Leipzig, open to IT security roles in Germany.</desc>
 <defs>
 <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -25,14 +25,14 @@
 
 <!-- left: identity -->
 <text x="70" y="76" font-size="11.5" letter-spacing="2.4" fill="#ffc04d">// SECURITY ANALYST IN TRAINING · OPEN TO IT SECURITY ROLES</text>
-<g filter="url(#glow)" font-weight="800" font-size="84" fill="#c9f5e1">
-  <text x="66" y="156">ARJUN</text>
-  <text x="66" y="236">THAKOR<tspan fill="#3dff9a">_</tspan></text>
+<g filter="url(#glow)" font-weight="800" font-size="74" fill="#c9f5e1">
+  <text x="66" y="152">ARJUNSINH</text>
+  <text x="66" y="226">THAKOR<tspan fill="#3dff9a">_</tspan></text>
 </g>
 <!-- glitch flashes -->
-<g font-weight="800" font-size="84" opacity="0">
-  <text x="62" y="154" fill="#ff4d6d" clip-path="inset(0 0 55% 0)">ARJUN</text>
-  <text x="70" y="158" fill="#3ee6ff">ARJUN</text>
+<g font-weight="800" font-size="74" opacity="0">
+  <text x="62" y="150" fill="#ff4d6d" clip-path="inset(0 0 55% 0)">ARJUNSINH</text>
+  <text x="70" y="154" fill="#3ee6ff">ARJUNSINH</text>
   <animate attributeName="opacity" dur="3.8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9;0.95;1" values="0;0;.6;0"/>
 </g>
 <text x="70" y="270" font-size="14" fill="#c9f5e1">M.Sc. Cybersecurity · SRH University Leipzig</text>
