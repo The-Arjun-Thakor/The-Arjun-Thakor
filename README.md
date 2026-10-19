@@ -8,11 +8,11 @@
 
 <img src="about.svg" alt="About: M.Sc. Cybersecurity student at SRH University Leipzig, B.Tech CSE Cyber Security. Focus on log analysis and detection, cloud security as code, incident response and risk management. Open to IT security roles in Germany and the EU. English fluent, German B1." width="100%">
 
-<img src="projects.svg" alt="Projects: logguard (Python log analysis and detection, MITRE ATT&CK) and terraform-aws-secure-baseline (AWS security baseline in Terraform, scanned with Checkov) are live. A DevSecOps pipeline and an ISO 27001 risk assessment example are coming soon." width="100%">
+<img src="projects.svg" alt="Projects: logguard (Python log analysis and detection, MITRE ATT&CK), terraform-aws-secure-baseline (AWS security baseline in Terraform, scanned with Checkov), devsecops-pipeline (CI/CD with security scanning gates) and iso27001-risk-assessment-pack (self-study ISMS risk assessment). All four are live." width="100%">
 
 <div align="center">
 
-[**open logguard**](https://github.com/The-Arjun-Thakor/logguard) &nbsp;·&nbsp; [**open terraform-aws-secure-baseline**](https://github.com/The-Arjun-Thakor/terraform-aws-secure-baseline)
+[**open logguard**](https://github.com/The-Arjun-Thakor/logguard) &nbsp;·&nbsp; [**open terraform-aws-secure-baseline**](https://github.com/The-Arjun-Thakor/terraform-aws-secure-baseline) &nbsp;·&nbsp; [**open devsecops-pipeline**](https://github.com/The-Arjun-Thakor/devsecops-pipeline) &nbsp;·&nbsp; [**open iso27001-risk-assessment-pack**](https://github.com/The-Arjun-Thakor/iso27001-risk-assessment-pack)
 
 </div>
 
